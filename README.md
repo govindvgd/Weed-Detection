@@ -1,7 +1,7 @@
-# Weed Detection in Crops
+# Image Outpainting for Crop dataset
 
 ## Overview
-This project aims to develop an efficient system for detecting weeds in agricultural fields using advanced image processing and deep learning techniques.
+The objective of this project is to tackle the task of image outpainting for crop(rice) dataset by using deep learning methods.
 
 ## Features
 - Real-time Detection
